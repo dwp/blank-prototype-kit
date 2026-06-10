@@ -10,7 +10,7 @@
     "@govuk-prototype-kit/common-templates": "3.0.0",
     "body-parser": "2.2.2",
     "express": "5.2.1",
-    "govuk-frontend": "6.1.0",
+    "govuk-frontend": "6.2.0",
     "qs": "6.15.2"
   },
   "overrides": {
